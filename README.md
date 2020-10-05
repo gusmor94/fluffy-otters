@@ -20,3 +20,7 @@ When the user clicks the "Generate Password" button, they will then be given var
 * And if they would like to use special characters.
 
 Once the prompts are answered, then the user will see a random password generated inside of the box that states "Your Secure Password". 
+
+Click the link, to visit the password generator website and try it out for yourself!
+
+[Password Generator](https://gusmor94.github.io/fluffy-otters/)
